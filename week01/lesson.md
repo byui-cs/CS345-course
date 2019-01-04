@@ -19,7 +19,7 @@ There will be two components to the reading this week: the course materials and 
 
 ### Chapter 1 - Introduction
 
-In many ways, this chapter is a brief summary of everything we will be learning about for the remainder of the semester. Just about everything here will be discussed in more detail later in the semester. That being said, this semester is among the most important. It shows how all the pieces fit together into a single cohesive whole. As we go into more detail later, it will be easy to lose sight of the interactions between the parts. It is therefore a good idea to focus on these interactions as you read Chapter 1.
+In many ways, this chapter is a brief summary of everything we will be learning about for the remainder of the semester. Just about everything here will be discussed in more detail later in the semester. That being said, this chapter is among the most important. It shows how all the pieces fit together into a single cohesive whole. As we go into more detail later, it will be easy to lose sight of the interactions between the parts. It is therefore a good idea to focus on these interactions as you read Chapter 1.
 
 ### Chapter 12 - I/O Systems : Section 12.1 and 12.2
 
