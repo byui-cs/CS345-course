@@ -47,7 +47,7 @@ Please make sure your program runs without error.
 
 ### D. Style
 
-Your program should be well-commented and free of any style-checker errors. You may need to review the style guidelines from [CS 124 and CS 165](https://content.byui.edu/file/66227afd-b800-4ba3-b6b3-18db4db6c440/1/Procedural%20Programming%20in%20C%2B%2B.pdf) if you are unsure of the guidelines.
+Your program should be well-commented and free of any style-checker errors. You may need to review the style guidelines from [CS 124 and CS 165](https://webmailbyui-my.sharepoint.com/:b:/r/personal/comeaul_byui_edu/Documents/Shared%20with%20Everyone/cs124/cs124%20TextBook.pdf?csf=1&e=CdquAx) if you are unsure of the guidelines.
 
 You can run style checker with:
 
@@ -55,7 +55,7 @@ You can run style checker with:
 
 ### E. Submit
 
-You will submit this assignment now. You will need to submit it again after you have had your code reviewed on the discussion board. If you have any questions how this process works, please Chapter 1.0 from [Procedural Programming in C++](https://content.byui.edu/file/66227afd-b800-4ba3-b6b3-18db4db6c440/1/Procedural%20Programming%20in%20C%2B%2B.pdf)
+You will submit this assignment now. You will need to submit it again after you have had your code reviewed on the discussion board. If you have any questions how this process works, please Chapter 1.0 from [Procedural Programming in C++](https://webmailbyui-my.sharepoint.com/:b:/r/personal/comeaul_byui_edu/Documents/Shared%20with%20Everyone/cs124/cs124%20TextBook.pdf?csf=1&e=CdquAx)
 
 
 ### Assessment
