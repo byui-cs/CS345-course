@@ -54,3 +54,15 @@ The traditional hospital has many doctors and is designed to serve many patients
 ## Team Activity Quiz
 
 Don't forget to complete the weekly team activity quiz that is due each Thursday evening at midnight.  The quiz can be found in Canvas.  There is no method of submitting a late quiz.  I would suggest you create a weekly reminder on your computer or cell phone.
+
+# Extra (If you need more to do)
+
+Write a c program that prompts the user for two file names (source and destination) where it copies the contents of the source file to the destination file.  Note: This is to be a c program not **C++**.  Your source file should have the extension of ".c". (ie., the statement 'cout' should NOT work in your code.)
+
+Sample Output
+
+```as
+Enter source file: source.txt
+Enter destination file: dest.txt
+5465 bytes where copied.
+```
