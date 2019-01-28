@@ -5,9 +5,6 @@
 ##### Due Monday night at Midnight MST
 
 This week, the project will be to write a program to implement the scheduling algorithms discussed in the chapter. 
-se raf as as
-
-**Hint:** These scheduling algorithms are exactly the same as those in the Ponder and Prove exercises. Please start on them as soon as possible so you can be successful here.
 
 ### A. Start with the provided code
 
