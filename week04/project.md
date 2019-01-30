@@ -99,7 +99,7 @@ Your program should be well-commented and free of any style-checker errors.
 
 ## 4\. Submit - Due Monday midnight
 
-Please submit your TAR file to `Lab 05, Scheduling Lab`.
+Please submit your TAR file to `Lab 04, Scheduling Lab`.
 
 ### Rubric
 
