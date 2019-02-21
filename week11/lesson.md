@@ -1,6 +1,6 @@
 ![](../images/banner.jpg)
 
-# Prepare 11 : File Systems
+# Prepare 11 : Mass Storage
 
 ##### Due Monday before class time
 
