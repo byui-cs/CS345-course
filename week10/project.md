@@ -1,6 +1,6 @@
 ![](../images/banner.jpg)
 
-# Ponder XX : TITLE OF PROJECT
+# Ponder 10 : Page Replacement Lab
 
 ##### Due Monday night at Midnight MST
 
