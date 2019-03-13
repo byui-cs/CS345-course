@@ -22,7 +22,7 @@ The first item is the queue. This represents the sequence of track requests to t
 
 The second item is the location of the head at the start of the simulation. In this case, the head starts on top of track 53.
 
-Next is the number of tracks on the patter. In this case, there are 200 tracks so the valid track numbers are 0 through 199.
+Next is the number of tracks on the platter. In this case, there are 200 tracks so the valid track numbers are 0 through 199.
 
 The final item is the initial direction of the arm. Here it is increasing, meaning it is going from a low track number to a higher number.
 
@@ -42,7 +42,7 @@ The "Distance" column refers to how far the arm traveled during this move. Notic
 
 On the bottom of each table is an "Average" value. This is the average seek time for all the track requests in the simulation. In this case, the average distance traveled per request is 80 tracks.
 
-#### Instructions
+### Instructions
 
 You are to complete all six tables on both tabs (for a total of 12 tables). There will be two problem details (one for each tab) and six algorithms per tab.
 
