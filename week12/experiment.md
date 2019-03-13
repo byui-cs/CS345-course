@@ -2,7 +2,7 @@
 
 # Teach 12 : Experimentation for White Paper
 
-This is a continuation of our White Paper assignment. We will be working on the Gather step here.
+We will be working on the Gather step here of the white paper.
 
 Your white paper must report on actual data you collected. To facilitate this, two programs will be provided: `experimentCPU.c` and `experimentIO.cpp`. Run these programs and collect data for your paper.
 

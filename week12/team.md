@@ -1,5 +1,5 @@
 ![](../images/banner.jpg)
 
-# Teach 12 : No Team Activity
+# Teach 12 : Team Activity
 
-Work on your white papers
+The team activity is to Work on your white papers.

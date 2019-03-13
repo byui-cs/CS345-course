@@ -4,7 +4,13 @@
 
 ##### Due Monday night at Midnight MST
 
-This is a continuation of our White Paper assignment. There are six steps in this process: 1) Perform Research, 2) Gather Data, 3) Analyze, 4) Report, 5) Review, and 6) Publish. We will be working on the Analyze step here.
+There are six steps in the white paper process: 
+1) Perform Research
+2) Gather Data
+3) Analyze
+4) Report
+5) Review
+6) Publish. 
 
 The perform research component of the paper are described in [Prepare Research](research.md).
 

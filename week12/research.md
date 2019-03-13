@@ -4,7 +4,7 @@
 
 ##### Due Tuesday night at Midnight MST
 
-Our main assignment this week and next is to produce a white paper. A white paper is an authoritative report on an issue for the purpose of giving information, making a recommendation, or making a proposal. A white paper needs to be grounded in research and data, there is no room for unsubstantiated opinions. Our purpose here is to write a white paper to address the following question:
+A white paper is an authoritative report on an issue for the purpose of giving information, making a recommendation, or making a proposal. A white paper needs to be grounded in research and data, there is no room for unsubstantiated opinions. Our purpose here is to write a white paper to address the following question:
 
 > How many threads should be used for a given program?
 
