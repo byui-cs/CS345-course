@@ -37,7 +37,7 @@ Make sure you update the header in the makefile so it gets submitted to the corr
 Implement five of the six scheduling algorithms as mentioned in the textbook (the first has been implemented as an example). These algorithms are:
 
 *   **SSTF**: Shortest-Seek-Time-First found in section 9.4.2 SSTF Scheduling on page 448-449
-*   **SCAN**: The elevator algorithm found in section 8.4.3 SCAN Scheduling on page 449-450
+*   **SCAN**: The elevator algorithm found in section 9.4.3 SCAN Scheduling on page 449-450
 *   **C-SCAN**: Circular SCAN found in section 9.4.4 C_SCAN Scheduling on page 450
 *   **LOOK**: The look-ahead variant of SCAN found in 9.4.5 LOOK Scheduling on page 451
 *   **C-LOOK**: The circular variant of LOOK also found in 9.4.5 LOOK Scheduling on page 451
