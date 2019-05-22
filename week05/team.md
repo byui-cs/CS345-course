@@ -1,6 +1,6 @@
 ![](../images/banner.jpg)
 
-# Teach 05 : Treads
+# Team 05 : Treads
 
 - Copy the file /home/cs345/teamActivities/team05.c to your personal account on the Linux account.
 - Add code to this code file to calculate PI using the Monte Carlo Method with multiple threads.
