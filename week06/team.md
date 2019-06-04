@@ -35,3 +35,10 @@ Here are the following semaphore functions/structures that you need to use:
 - pthread_mutex_lock()
 - pthread_mutex_unlock()
   
+Semaphores and Mutexes to create
+
+1) One mutex to protect any shared memory between threads.
+2) One semaphore to handle writing to the queue between threads.
+3) One semaphore to handle reading from the queue between threads.
+
+
