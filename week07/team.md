@@ -1,6 +1,6 @@
 ![](../images/banner.jpg)
 
-# Teach 07 : Producer & Consumer
+# Teach 07 : QuickSort
 
 ##### Please work together in groups of 2 or 3
 
