@@ -27,7 +27,7 @@ Your teams analogy will be shared in class so you can get feedback from your fel
 
 ## Example
 
-The following is an example of a "good" analogy. It is meant to be descriptive rather than perscriptive. In other words, please do not use it as a template for your analogy.
+The following is an example of a "good" analogy. It is meant to be descriptive rather than prescriptive. In other words, please do not use it as a template for your analogy.
 
 Subject: **Hospital**
 
@@ -57,7 +57,7 @@ Don't forget to complete the weekly team activity quiz that is due each Thursday
 
 # Extra (If you need more to do)
 
-Write a c program that prompts the user for two file names (source and destination) where it copies the contents of the source file to the destination file.  Note: This is to be a c program not **C++**.  Your source file should have the extension of ".c". (ie., the statement 'cout' should NOT work in your code.)
+Write a c program that prompts the user for two file names (source and destination) where it copies the contents of the source file to the destination file. **Please don't just search for this code on the Internet!**. Note: This is to be a c program not **C++**.  Your source file should have the extension of ".c". (ie., the statement 'cout' should NOT work in your code.)
 
 Sample Output
 

@@ -55,8 +55,14 @@ You can run style checker with:
 
 ### E. Submit
 
+**Online**
+
 You will submit this assignment now. You will need to submit it again after you have had your code reviewed on the discussion board. If you have any questions how this process works, please Chapter 1.0 from [Procedural Programming in C++](https://webmailbyui-my.sharepoint.com/:b:/r/personal/comeaul_byui_edu/Documents/Shared%20with%20Everyone/cs124/cs124%20TextBook.pdf?csf=1&e=CdquAx)
 
+
+**In class**
+
+Face to face students will submit your project through the Linux Account.
 
 ### Assessment
 
