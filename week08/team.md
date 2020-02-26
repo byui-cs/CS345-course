@@ -1,6 +1,6 @@
 ![](../images/banner.jpg)
 
-# Teach 08 : TITLE
+# Teach 08 : Using OpenMP
 
 ##### Please work together in groups of 2 or 3
 
@@ -12,3 +12,10 @@
 ```
 
 - Complete the code found in team08.c
+
+For example:
+```
+mkdir team08
+cd team08
+cp /home/cs345/comeau/week08/* .
+```
