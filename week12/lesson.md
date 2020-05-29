@@ -46,6 +46,9 @@ This is interesting from a general programming perspective. Can you think of a w
 
 Another section for skimming. While we certainly have seen caching appear in other contexts, this provides another context.
 
+### File Permissions in Linux
+
+Please read this webpage on [file permissions](https://www.linux.com/training-tutorials/understanding-linux-file-permissions/).
 
 
 ## Quiz
