@@ -16,7 +16,7 @@ cp /home/cs345/comeau/week07/* .
 ```
 
 - The source file main.cpp contains code to load the values.txt file into memory and sort the values using quicksort.
-- the "values.txt" file contains 1,000,000 random values to be sorted.
+- the "values.txt" file contains random values to be sorted.
 
 To compile:
 ```bash
