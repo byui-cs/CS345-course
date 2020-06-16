@@ -186,7 +186,7 @@ Please validate your solution against `testBed`.
 
 <pre>testBed cs345/lab09 lab09.cpp</pre>
 
-Make sure your code passes all the tests without error. The following page table files are provided:
+Make sure your code passes all the tests without error. The following page table files are provided (Found at `/home/cs345/week09`)
 
 *   **pageFile1.txt** : The page file presented in this document.
 *   **pageFile2.txt** : A more complex page table file.
